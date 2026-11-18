@@ -9,7 +9,7 @@ INPUT_PATH = Path("processed/preprocessed_articles.csv")
 INDEX_DIR = Path("index")
 BLOCK_DIR = INDEX_DIR / "blocks"
 
-MAX_POSTINGS = 10000
+MAX_POSTINGS = 20000
 
 INDEX_DIR.mkdir(exist_ok=True)
 BLOCK_DIR.mkdir(exist_ok=True)
