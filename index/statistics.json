@@ -1,9 +1,9 @@
 {
-    "total_documents": 453,
+    "total_documents": 450,
     "total_blocks": 21,
-    "unique_terms": 19897,
-    "total_postings": 208711,
-    "index_size_bytes": 2315071,
-    "indexing_time_seconds": 1.5752,
+    "unique_terms": 19862,
+    "total_postings": 207373,
+    "index_size_bytes": 2301126,
+    "indexing_time_seconds": 1.6186,
     "max_postings_per_block": 10000
 }

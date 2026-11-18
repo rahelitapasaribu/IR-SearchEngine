@@ -1,0 +1,11 @@
+{
+    "total_terms": 19862,
+    "total_postings": 207373,
+    "original_index_size_bytes": 2301126,
+    "compressed_postings_size_bytes": 430437,
+    "vbe_index_size_bytes": 423723,
+    "total_compressed_size_bytes": 854160,
+    "compression_ratio_percent": 37.12,
+    "space_saving_percent": 62.88,
+    "encoding_time_seconds": 0.318319
+}

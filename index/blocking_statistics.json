@@ -1,0 +1,9 @@
+{
+    "total_terms": 19862,
+    "total_blocks": 496,
+    "prefix_length": 2,
+    "average_terms_per_block": 40.04,
+    "max_terms_per_block": 517,
+    "min_terms_per_block": 1,
+    "blocking_time_seconds": 0.139174
+}
