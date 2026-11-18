@@ -1,0 +1,80 @@
+{
+  "analisis sentimen": {
+    "query": "analisis sentimen",
+    "k": 10,
+    "total_relevant_in_corpus": 8,
+    "timestamp": "2026-11-18 16:24:00",
+    "items": [
+      {
+        "rank": 1,
+        "doc_id": "312",
+        "title": "ANALISIS SENTIMEN FEEDBACK CUSTOMER BERBASIS WEBSITE",
+        "score": 0.774787,
+        "relevant": 1
+      },
+      {
+        "rank": 2,
+        "doc_id": "20",
+        "title": "Pengembangan Aplikasi Visualisasi Grafik Sentimen Chat Customer dI PT Dewata Telematika",
+        "score": 0.59891,
+        "relevant": 1
+      },
+      {
+        "rank": 3,
+        "doc_id": "128",
+        "title": "ANALISIS SENTIMEN GOOGLE MAPS REVIEW TERHADAP PELAYANAN MASYARAKAT DISDUKCAPIL KOTA DENPASAR Indonesia",
+        "score": 0.498996,
+        "relevant": 1
+      },
+      {
+        "rank": 4,
+        "doc_id": "65",
+        "title": "SISTEM ANALISIS SENTIMEN TERHADAP APLIKASI SIGNAL-SAMSAT DIGITAL NASIONAL",
+        "score": 0.479045,
+        "relevant": 1
+      },
+      {
+        "rank": 5,
+        "doc_id": "92",
+        "title": "SISTEM ANALISIS SENTIMEN ULASAN PENGUNJUNG BERBASIS WEBSITE UNTUK MANAJEMEN REPUTASI PROPERTI",
+        "score": 0.466979,
+        "relevant": 1
+      },
+      {
+        "rank": 6,
+        "doc_id": "310",
+        "title": "Penerapan Sistem Analisis Sentimen pada Aplikasi Mobile Banking PT. Bank Rakyat Indonesia",
+        "score": 0.295299,
+        "relevant": 1
+      },
+      {
+        "rank": 7,
+        "doc_id": "91",
+        "title": "PENERAPAN MACHINE LEARNING PADA SISTEM MANAJEMEN REPUTASI TERHADAP ULASAN PENGUNJUNG",
+        "score": 0.247181,
+        "relevant": 1
+      },
+      {
+        "rank": 8,
+        "doc_id": "321",
+        "title": "KLASIFIKASI BAKU LAPANGAN USAHA INDONESIA(KBLI) MENGGUNAKAN NATURAL LANGUAGE PROCESSING",
+        "score": 0.02277,
+        "relevant": 1
+      },
+      {
+        "rank": 9,
+        "doc_id": "496",
+        "title": "SISTEM PEMBANTU KEPUTUSAN PEMILIHAN TANAMAN ADOPSI WEBSITE ADOPTPLANT.COM",
+        "score": 0.020461,
+        "relevant": 0
+      },
+      {
+        "rank": 10,
+        "doc_id": "218",
+        "title": "PENGEMBANGAN APLIKASI  BERBASIS OPTICAL CHARACTER RECOGNITION (OCR) DI KANTOR PERTANAHAN KABUPATEN KARANGASEM",
+        "score": 0.013914,
+        "relevant": 0
+      }
+    ]
+  }
+}
